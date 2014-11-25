@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-this is a test github project.
+Hi humans,
+I'm Wuzhen.I like coding and programing.
